@@ -1,9 +1,8 @@
 # Smart Health Monitoring System
 
 **Course:** Embedded Systems  
-**Semester:** 2026  
-**Institution:** Al-Razi University  
-**Submission Date:** January 26, 2026  
+**Semester:** 2025 
+**Institution:** Al-Razi University   
 **Members:** Balqees Adel Jamil – 15
 
 ---
