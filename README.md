@@ -76,6 +76,11 @@ Low-cost, widely supported components. MLX90614 allows accurate non-contact temp
 ### Power Considerations
 Powered via USB (5V). Total current consumption is low, suitable for portable use.
 
+
+
+###  Circuit Diagram
+![Circuit](images/circuit.png)
+
 ---
 
 ## Software Design
@@ -91,7 +96,11 @@ Loop-based architecture: sensor readings continuously processed, filtered, and d
 ### Algorithms
 - Signal smoothing (moving average filter)  
 - Peak detection for BPM  
-- Threshold-based classification  
+- Threshold-based classification
+
+###  Flowchart
+![Flowchart](images/Flowchart.png)
+
 
 ---
 
